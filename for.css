@@ -1,0 +1,133 @@
+
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #7fc1e2;
+    background-repeat: no-repeat;
+    background-size: 100%; 
+}
+
+header {
+    background-color: hsl(193, 89%, 51%);
+    color: #7710de;
+    padding: 1em 0;
+    text-transform: initial;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1em;
+    text-align: left;
+}
+
+nav ul li a {
+    color: #426f84;
+    text-decoration: none;
+    
+}
+
+main {
+    padding: 2em;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.courses {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.course {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin: 1em;
+    width: 30%;
+}
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #4208e1;
+    color: #130a3d;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+    text-align: center;
+    color: aliceblue;
+    background-color: #4208e1;
+    display: initial;
+    padding: 2px;
+    
+}
+.cour h1{
+    background-color: #2e99f0;
+    display: inline;
+    padding: 6px;
+    margin-left: 560px;
+    padding-left: 90px;
+    padding-right: 200px;
+    
+}
+.cour  p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 60px;
+    margin: 10px;
+}
+.div1 ul{
+    margin-left: 50px;
+}
+.div1 ul li{
+    font-size: 30px;
+    margin-right: 20px;
+    margin-top: -30px;
+    text-decoration: underline;
+    
+}
+.div2 h1{
+    margin-left:30px ;
+}
+.div2 ul li{
+    margin-left: 20px;
+    font-size: 30px;
+}
+.div2 a{
+    margin-top: -300px;
+    margin-left: 200px;
+    background-color: #ece9f5;
+    padding: 6px;
+    margin: 20px;
+}
+.div3 ul li{
+    font-size: 30px;
+
+    margin-left: 20px;
+    text-decoration: underline;
+    color: aliceblue;
+}
+.div2 ul li{
+    font-size: larger;
+}
+.div5 ul li{
+    font-size: 30px;
+    margin-left: 20px;
+    text-decoration: underline;  
+}
+#pv{
+      margin-top: -6px;
+    font-size: 50%;
+}
+

@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .main{
+        width: 100%;
+        
+        background-image: url(image.html);
+        
+        background-position: center;
+        background-size: cover;
+        height: 109vh;
+        }
+        .navbar{
+            width: 1200px;
+            height: 75px;
+            margin: auto;
+            }
+            .icon{
+                width: 200px;
+                float: left;
+                height: 70px;
+                }
+                
+                        ul {
+                            float: left;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            }
+                            ul li{
+                                list-style: none;
+                                margin-left: 62px;
+                                margin-top: 27px;
+                                font-size: 14px;
+                                }
+                                ul li a{
+                                    outline: none;
+                                    color: #031920;
+                                    font-family: Arial;
+                                    font-weight: bold; 
+                                    text-decoration: none;
+                                
+                                }
+                                ul li a:hover{
+                                    color: #ffff;
+                                }
+                               
+
+                                
+                                .srch{
+        
+        
+          
+            border-bottom-left-radius: 5px;
+           }
+           
+           body{
+            
+            background-image: url(mes\ images/image.informatique.jpg);
+            margin: 0;
+            padding: 0;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            outline: 2px solid rgb(9, 3, 65);
+           }
+
+        .lik{
+            padding-top: 15px;
+            padding-bottom: 10px;
+            text-align: center;
+
+        }
+         login{
+            color: #e80d0d;
+         }
+main{
+    margin:0;
+    padding:0;
+    border-radius: 100px;
+    box-shadow: 0 0 10px rgba(rgb(3, 35, 49), rgb(2, 190, 252), rgb(5, 5, 160), alpha);
+    max: width 3px;
+    
+}
+.forma a {
+    background-color: blue;
+    color: #ffff;
+}
